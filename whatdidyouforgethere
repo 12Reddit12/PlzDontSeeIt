@@ -1,6 +1,6 @@
 {
   "localplayer_c": {
-    "value": 50014048,
+    "value": "0x2FB1740",
     "comment": "0x2FB1740 - LocalPlayer_c* file:script.json"
   },
   "playerflags": {
@@ -8,15 +8,15 @@
     "comment": "public BasePlayer.PlayerFlags playerFlags file:dump.cs"
   },
   "adminflag": {
-    "value": 4,
+    "value": "0x4",
     "comment": "adminflag"
   },
   "o_OcclusionCulling_c": {
-    "value": 50091400,
+    "value": "0x4BEED",
     "comment": "OcclusionCulling_TypeInfo OcclusionCulling_c*"
   },
   "o_ConVar_Culling_c": {
-    "value": 49727392,
+    "value": "0x2FB2400",
     "comment": "ConVar_Culling_c*"
   },
   "o_clActiveItem": {
@@ -54,17 +54,4 @@
   "o_stringHoldDurationMax": {
     "value": "0x3B8",
     "comment": "o_stringHoldDurationMax"
-  },
-  "o_stringBonusDamage": {
-    "value": "0x3BC",
-    "comment": "o_stringBonusDamage"
-  },
-  "o_movementPenaltyRampUpTime": {
-    "value": "0x3C8",
-    "comment": "o_movementPenaltyRampUpTime"
-  },
-  "o_createdProjectiles": {
-    "value": "0x398",
-    "comment": "private List<Projectile> createdProjectiles; // 0x398"
-  }
-}
+ 
