@@ -52,6 +52,19 @@
     "comment": "successFraction"
   },
   "o_stringHoldDurationMax": {
-    "value": "0x3B8",
+    "value": 0x3B8,
     "comment": "o_stringHoldDurationMax"
- 
+  },
+  "o_stringBonusDamage": {
+    "value": 0x3BC,
+    "comment": "o_stringBonusDamage"
+  },
+  "o_movementPenaltyRampUpTime": {
+    "value": 0x3C8,
+    "comment": "o_movementPenaltyRampUpTime"
+  },
+  "o_createdProjectiles": {
+    "value": 0x398,
+    "comment": "private List<Projectile> createdProjectiles; // 0x398"
+  }
+}
