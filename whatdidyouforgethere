@@ -1,6 +1,6 @@
 {
   "localplayer_c": {
-    "value": "0x2FB1740",
+    "value": "50014048",
     "comment": "0x2FB1740 - LocalPlayer_c* file:script.json"
   },
   "playerflags": {
@@ -8,15 +8,15 @@
     "comment": "public BasePlayer.PlayerFlags playerFlags file:dump.cs"
   },
   "adminflag": {
-    "value": "0x4",
+    "value": "4",
     "comment": "adminflag"
   },
   "o_OcclusionCulling_c": {
-    "value": "0x4BEED",
+    "value": "50091400",
     "comment": "OcclusionCulling_TypeInfo OcclusionCulling_c*"
   },
   "o_ConVar_Culling_c": {
-    "value": "0x2FB2400",
+    "value": "49727392",
     "comment": "ConVar_Culling_c*"
   },
   "o_clActiveItem": {
