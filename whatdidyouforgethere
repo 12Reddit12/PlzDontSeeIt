@@ -4,7 +4,7 @@
     "comment": "0x2FB1740 - LocalPlayer_c* file:script.json"
   },
   "playerflags": {
-    "value": 0x6E8,
+    "value": "0x6E8",
     "comment": "public BasePlayer.PlayerFlags playerFlags file:dump.cs"
   },
   "adminflag": {
@@ -20,51 +20,51 @@
     "comment": "ConVar_Culling_c*"
   },
   "o_clActiveItem": {
-    "value": 0x610,
+    "value": "0x610",
     "comment": "private ItemId clActiveItem"
   },
   "o_playerInventory": {
-    "value": 0x6F8,
+    "value": "0x6F8",
     "comment": "public PlayerInventory inventory;"
   },
   "o_containerBelt": {
-    "value": 0x28,
+    "value": "0x28",
     "comment": "public ItemContainer containerBelt;"
   },
   "o_contents": {
-    "value": 0x40,
+    "value": "0x40",
     "comment": "public List<Item> itemList; public List<int> availableSlots; // 0x38 or public List<Item> contents; // 0x40"
   },
   "o_items": {
-    "value": 0x10,
+    "value": "0x10",
     "comment": "public List<InventoryItem.Amount> items;"
   },
   "o_heldEntity": {
-    "value": 0xA0,
+    "value": "0xA0",
     "comment": "Item -> private EntityRef heldEntity;"
   },
   "o_didSparkThisFrame": {
-    "value": 0x3B0,
+    "value": "0x3B0",
     "comment": "_didSparkThisFrame"
   },
   "o_successFraction": {
-    "value": 0x3A0,
+    "value": "0x3A0",
     "comment": "successFraction"
   },
   "o_stringHoldDurationMax": {
-    "value": 0x3B8,
+    "value": "0x3B8",
     "comment": "o_stringHoldDurationMax"
   },
   "o_stringBonusDamage": {
-    "value": 0x3BC,
+    "value": "0x3BC",
     "comment": "o_stringBonusDamage"
   },
   "o_movementPenaltyRampUpTime": {
-    "value": 0x3C8,
+    "value": "0x3C8",
     "comment": "o_movementPenaltyRampUpTime"
   },
   "o_createdProjectiles": {
-    "value": 0x398,
+    "value": "0x398",
     "comment": "private List<Projectile> createdProjectiles; // 0x398"
   }
 }
