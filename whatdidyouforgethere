@@ -20,11 +20,11 @@
     "comment": "ConVar_Culling_c*"
   },
   "o_clActiveItem": {
-    "value": "0x610",
+    "value": "0x668",
     "comment": "private ItemId clActiveItem"
   },
   "o_playerInventory": {
-    "value": "0x6F8",
+    "value": "0x750",
     "comment": "public PlayerInventory inventory;"
   },
   "o_containerBelt": {
@@ -40,7 +40,7 @@
     "comment": "public List<InventoryItem.Amount> items;"
   },
   "o_heldEntity": {
-    "value": "0xA0",
+    "value": "0xA8",
     "comment": "Item -> private EntityRef heldEntity;"
   },
   "o_didSparkThisFrame": {
