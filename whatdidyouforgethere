@@ -4,7 +4,7 @@
     "comment": "0x2FB1740 - LocalPlayer_c* file:script.json"
   },
   "playerflags": {
-    "value": "0x6E8",
+    "value": "0x740",
     "comment": "public BasePlayer.PlayerFlags playerFlags file:dump.cs"
   },
   "adminflag": {
