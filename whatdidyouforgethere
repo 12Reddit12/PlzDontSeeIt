@@ -1,6 +1,6 @@
 {
   "localplayer_c": {
-    "value": "50135144",
+    "value": "50139264",
     "comment": "0x2FB1740 - LocalPlayer_c* file:script.json"
   },
   "playerflags": {
@@ -12,11 +12,11 @@
     "comment": "adminflag"
   },
   "o_OcclusionCulling_c": {
-    "value": "50212216",
+    "value": "50216328",
     "comment": "OcclusionCulling_TypeInfo OcclusionCulling_c*"
   },
   "o_ConVar_Culling_c": {
-    "value": "49845648",
+    "value": "49849752",
     "comment": "ConVar_Culling_c*"
   },
   "o_clActiveItem": {
