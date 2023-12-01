@@ -1,10 +1,10 @@
 {
   "localplayer_c": {
-    "value": "50139264",
+    "value": "54160448",
     "comment": "0x2FB1740 - LocalPlayer_c* file:script.json"
   },
   "playerflags": {
-    "value": "0x740",
+    "value": "0x8B0",
     "comment": "public BasePlayer.PlayerFlags playerFlags file:dump.cs"
   },
   "adminflag": {
@@ -12,19 +12,19 @@
     "comment": "adminflag"
   },
   "o_OcclusionCulling_c": {
-    "value": "50216328",
+    "value": "54252120",
     "comment": "OcclusionCulling_TypeInfo OcclusionCulling_c*"
   },
   "o_ConVar_Culling_c": {
-    "value": "49849752",
+    "value": "53830744",
     "comment": "ConVar_Culling_c*"
   },
   "o_clActiveItem": {
-    "value": "0x668",
+    "value": "0x7D0",
     "comment": "private ItemId clActiveItem"
   },
   "o_playerInventory": {
-    "value": "0x750",
+    "value": "0x8C0",
     "comment": "public PlayerInventory inventory;"
   },
   "o_containerBelt": {
@@ -40,7 +40,7 @@
     "comment": "public List<InventoryItem.Amount> items;"
   },
   "o_heldEntity": {
-    "value": "0xA8",
+    "value": "0xB0",
     "comment": "Item -> private EntityRef heldEntity;"
   },
   "o_didSparkThisFrame": {
@@ -53,7 +53,7 @@
   },
   "o_stringHoldDurationMax": {
     "value": "0x3B8",
-    "comment": "o_stringHoldDurationMax"
+    "comment": "o_stringHoldDurationMax stringHoldDurationMax public class CompoundBowWeapon : BowWeapon // TypeDefIndex: 371"
   },
   "o_stringBonusDamage": {
     "value": "0x3BC",
