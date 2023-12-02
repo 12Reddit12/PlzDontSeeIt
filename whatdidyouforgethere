@@ -68,7 +68,7 @@
     "comment": "private List<Projectile> createdProjectiles; // 0x398"
   },
   "o_debugShow": {
-    "value": "0x8C",
+    "value": "0x88",
     "comment": "private static OcclusionCulling.DebugFilter _debugShow; // 0x8C"
   }
 }
