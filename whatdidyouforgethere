@@ -1,10 +1,10 @@
 {
   "localplayer_c": {
-    "value": "54566200",
+    "value": "55066248",
     "comment": "0x2FB1740 - LocalPlayer_c* file:script.json"
   },
   "playerflags": {
-    "value": "0x8B0",
+    "value": "0x8C8",
     "comment": "public BasePlayer.PlayerFlags playerFlags file:dump.cs"
   },
   "adminflag": {
@@ -12,11 +12,11 @@
     "comment": "adminflag"
   },
   "o_OcclusionCulling_c": {
-    "value": "54661064",
+    "value": "55161440",
     "comment": "OcclusionCulling_TypeInfo OcclusionCulling_c*"
   },
   "o_ConVar_Culling_c": {
-    "value": "54236688",
+    "value": "54737616",
     "comment": "ConVar_Culling_c*"
   },
   "o_clActiveItem": {
