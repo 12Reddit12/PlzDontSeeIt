@@ -19,7 +19,7 @@
     "comment": "	public static float camlerp; // 0x30 file:dump.cs"
   },
   {
-  "localplayer_c": {
+  "camspeed": {
     "value": "0x3c",
     "comment": "	private static float _camspeed; // 0x3C"
   },
