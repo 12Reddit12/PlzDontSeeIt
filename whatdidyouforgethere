@@ -3,6 +3,31 @@
     "value": "55062216",
     "comment": "0x2FB1740 - LocalPlayer_c* file:script.json"
   },
+{
+  "ConsoleSystemTypeInfo": {
+    "value": "55086160",
+    "comment": "ConsoleSystem_Command_c* file:script.json ConsoleSystem.Command_TypeInfo"
+  },
+{
+  "ConVarClientC": {
+    "value": "54698640",
+    "comment": "ConVar_Client_c* file:script.json ConVar.Client_TypeInfo"
+  },
+{
+  "camlerp": {
+    "value": "0x30",
+    "comment": "	public static float camlerp; // 0x30 file:dump.cs"
+  },
+{
+  "localplayer_c": {
+    "value": "0x3c",
+    "comment": "	private static float _camspeed; // 0x3C"
+  },
+{
+  "AllowRunFromServer": {
+    "value": "0x58",
+    "comment": "public bool AllowRunFromServer; // 0x58 file:dump.cs // Namespace: public class ConsoleSystem.Command // TypeDefIndex: 14730"
+  },
   "playerflags": {
     "value": "0x8C8",
     "comment": "public BasePlayer.PlayerFlags playerFlags file:dump.cs"
