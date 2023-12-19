@@ -15,6 +15,10 @@
     "value": "0x30",
     "comment": "	public static float camlerp; // 0x30 file:dump.cs"
   },
+  "newRecoilOverride": {
+    "value": "0x80",
+    "comment": "	public RecoilProperties newRecoilOverride; public class RecoilProperties : ScriptableObject // 0x80 file:dump.cs"
+  },
   "camspeed": {
     "value": "0x3c",
     "comment": "	private static float _camspeed; // 0x3C"
