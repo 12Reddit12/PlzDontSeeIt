@@ -3,13 +3,9 @@
     "value": "55062232",
     "comment": "0x2FB1740 - LocalPlayer_c* file:script.json"
   },
-  "ConsoleSystemTypeInfo": {
+  "ConsoleSystem_Index_c": {
     "value": "55086160",
     "comment": "ConsoleSystem_Command_c* file:script.json ConsoleSystem.Command_TypeInfo"
-  },
-  "ConVarClientC": {
-    "value": "54698640",
-    "comment": "ConVar_Client_c* file:script.json ConVar.Client_TypeInfo"
   },
   "camlerp": {
     "value": "0x30",
