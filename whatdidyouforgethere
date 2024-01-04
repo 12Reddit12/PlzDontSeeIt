@@ -1,10 +1,10 @@
 {
   "localplayer_c": {
-    "value": "55062232",
+    "value": "55079192",
     "comment": "0x2FB1740 - LocalPlayer_c* file:script.json"
   },
   "ConsoleSystem_Index_c": {
-    "value": "55086408",
+    "value": "55103136",
     "comment": "ConsoleSystem_Command_c* file:script.json ConsoleSystem.Command_TypeInfo"
   },
   "camlerp": {
@@ -36,11 +36,11 @@
     "comment": "adminflag"
   },
   "o_OcclusionCulling_c": {
-    "value": "55157424",
+    "value": "55174384",
     "comment": "OcclusionCulling_TypeInfo OcclusionCulling_c*"
   },
   "o_ConVar_Culling_c": {
-    "value": "54733600",
+    "value": "54750600",
     "comment": "ConVar_Culling_c*"
   },
   "o_clActiveItem": {
