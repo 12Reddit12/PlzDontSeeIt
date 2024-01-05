@@ -4,8 +4,8 @@
     "comment": "0x2FB1740 - LocalPlayer_c* file:script.json"
   },
   "ConsoleSystem_Index_c": {
-    "value": "55103136",
-    "comment": "ConsoleSystem_Command_c* file:script.json ConsoleSystem.Command_TypeInfo"
+    "value": "55103368",
+    "comment": "ConsoleSystem_Index_c* file:script.json ConsoleSystem.Index_TypeInfo"
   },
   "camlerp": {
     "value": "0x30",
