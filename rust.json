@@ -298,6 +298,7 @@
         "cachedUpkeepCostFraction": 1816,
         "cachedUpkeepPeriodMinutes": 1812
     },
+    "ConVar_Culling_TypeInfo": 54750600,
     "ConsoleSystemCommands": {
         "AllowRunFromServer": 88,
         "Arguments": 104,
@@ -489,6 +490,7 @@
         "showScreenBounds": 26,
         "showStats": 25
     },
+    "OcclusionCulling_TypeInfo": 55174384,
     "PlayerInventory": {
         "containerBelt": 40,
         "containerMain": 32,
